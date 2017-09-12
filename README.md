@@ -6,8 +6,8 @@ FDS6기를 위한 과제 할당 repo
 이 repository의 20170912 directory에 오늘의 과제가 들어있습니다.
 20170912/0912.html을 browser에서 열었을 때 아래 그림과 같이 보이도록 만드는 것이 오늘의 과제입니다.
 
-![ex1]("img/20170912/20170912_FDS6_assign_A01.PNG")
-![ex2]("img/20170912/20170912_FDS6_assign_A01.PNG")
+![ex1]("https://github.com/iiinae/FDS6_assign/blob/master/img/20170912/20170912_FDS6_assign_A01.PNG")
+![ex2]("https://github.com/iiinae/FDS6_assign/blob/master/img/20170912/20170912_FDS6_assign_A02.PNG")
 
 두번째 그림은 왼쪽 상단의 파란색 "LOGO"가 scrolling에 상관 없이 항상 왼쪽 상단에 떠있음을 보이고 있습니다.
 

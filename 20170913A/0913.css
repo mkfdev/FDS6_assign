@@ -16,6 +16,10 @@
   display: inline-block;
 }
 
+.menu > li {
+  display: inline-block;
+}
+
 .menu > li > span {
   background-color: blue;
 }
